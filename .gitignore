@@ -1,2 +1,10 @@
 env
 
+# Project files for heroku to ignore
+*.pyc
+.DS_Store
+*.swp
+/venv/
+/static/
+/media/
+.env
