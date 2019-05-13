@@ -1,1 +1,1 @@
-web: gunicorn project_title.wsgi --log-file -
+web: gunicorn pwchorus_wagtail.wsgi --log-file -
